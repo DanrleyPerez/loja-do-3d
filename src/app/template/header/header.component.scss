@@ -1,0 +1,28 @@
+
+.center_text{
+    position:fixed;
+    left: 50%;
+    padding-top: 3%;
+    margin-left: -110px;
+    margin-right: auto;
+    font-family: 'Mulish';
+    font-size: 40px;
+    color:white;
+    
+}
+.center-img{
+    left: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+
+}
+
+
+#imagem-principal {
+    
+    opacity: 1;
+    transition: all 0.5s ease-out;
+    display: block;
+    width: 20%;
+}
