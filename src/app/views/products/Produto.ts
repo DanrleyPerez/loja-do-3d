@@ -6,6 +6,8 @@ export interface Produto{
     price: number;
     inventoryStatus:string;
     imageUrl : string;
+    quantity:number;
+    rating : number;
 
 
 }
